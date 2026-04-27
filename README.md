@@ -19,3 +19,4 @@ Install dependencies:
 
 ```bash
 pip install numpy scikit-learn jupyter
+jupyter notebook notebooks/experiments.ipynb
